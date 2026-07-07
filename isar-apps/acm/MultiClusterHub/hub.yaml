@@ -38,9 +38,6 @@ spec:
         name: cluster-backup
       - configOverrides: {}
         enabled: true
-        name: cluster-permission
-      - configOverrides: {}
-        enabled: true
         name: multicluster-observability
       - configOverrides: {}
         enabled: true
