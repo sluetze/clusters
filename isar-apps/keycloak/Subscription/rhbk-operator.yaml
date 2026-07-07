@@ -8,7 +8,7 @@ metadata:
   name: rhbk-operator
   namespace: rhbk-operator
 spec:
-  channel: stable-v26.4
+  channel: stable-v26.6
   installPlanApproval: Manual
   name: rhbk-operator
   source: redhat-operators
